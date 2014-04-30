@@ -11,3 +11,4 @@ Bren_Upload Models_Bowling Chair
 Bren_Upload Models_Bowling Table
 Bren_Upload Model_Bowling Ball
 Bren_Add_1.0.4 Static Mesh Made/Materialed
+Tom_add_1.0.5  add content bowling balls & chairs to front desk
