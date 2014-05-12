@@ -20,4 +20,5 @@ tom_fluorescent_material_import
 Bren_Reorganize_Models Into A  Model Folder
 Bren_Upload_EmissiveLightPanel
 Bren_add_Folder_Textures Wood Textures w/ normals
+Bren_Modify_Models In Folder
 Bren_Add_1.0.9 Started With Lighting Effects and materials on models.
