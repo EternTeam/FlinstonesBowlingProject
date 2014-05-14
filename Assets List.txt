@@ -17,6 +17,7 @@ Emissive Lightpanel- Prototype Model- Done
 Emissive Lightpanel- Final model    - Done
 
 Gutter Tube  - Prototype Model - Done
+Gutter Tube  - Collision Mesh  - Done
 Gutter Tube  - Final Model     - N/A
 
 ScoreBoard   - Prototype Model - Done
