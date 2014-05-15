@@ -26,3 +26,4 @@ Bren_Replace_BowlingBallMesh
 Bren_Add_1.1_Base Bowling Mechanics Done
 Bren_ Created Assets List\
 Bren_Added_CollisionMesh To Gutter Tube
+Bren_Add_1.1.1 Getting the project setup for Nathan.
